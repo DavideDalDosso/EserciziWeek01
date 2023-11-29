@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 class Conditions00
 {
-    static void Main(string[] args)
+    static void Main(string[] args) //TEST
     {
 
         //Setting up the instance managing our ranking
