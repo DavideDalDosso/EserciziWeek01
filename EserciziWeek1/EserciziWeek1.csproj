@@ -5,11 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Conditions00</StartupObject>
+    <StartupObject>Conditions03</StartupObject>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="pratica02\ex03\" />
-  </ItemGroup>
 
 </Project>
